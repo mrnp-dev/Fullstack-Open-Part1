@@ -1,7 +1,7 @@
 # Fullstack-Open-Part1
 Exercise submissions for part 1
 
-> ## Exercises 1.1. - 1.2. (Solutions)
+> # Exercises 1.1. - 1.2. (Solutions)
 The exercises are submitted via GitHub, and by marking the exercises as done in the [submission application](https://studies.cs.helsinki.fi/stats/courses/fullstackopen).
 
 https://fullstackopen.com/en/part1/introduction_to_react#exercises-1-1-1-2
@@ -106,7 +106,7 @@ Careful, small-step progress may seem slow, but it is actually by far the fastes
 
 that is, according to Martin, careful progress with small steps is even the only way to be fast.
 
-# Solution!
+### Solution!
 ```javascript
 const Header = (props) => {
   return(
@@ -170,7 +170,7 @@ const Content = ... {
   )
 }
 ```
-# Solution!
+### Solution!
 ```javascript
 const Header = (props) => {
   return(
